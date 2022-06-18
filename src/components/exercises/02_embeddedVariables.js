@@ -22,8 +22,8 @@ const Demo = () => {
         <thead>
           <tr>
             <th>Name</th>
-            <th>No lectures}</th>
-            <th>No practicals}</th>
+            <th>No lectures</th>
+            <th>No practicals</th>
           </tr>
         </thead>
         <tbody>

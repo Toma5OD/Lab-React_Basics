@@ -5,7 +5,9 @@ const Demo = props => {
   const list = props.modules.map((module, index) => {
     return (
       <tr key={index}>
-       {module.course}
+            <th>{module.name}</th>
+            <th>{module.noLectures}</th>
+            <th>{module.noPracticals}</th>
       </tr>
     );
   });

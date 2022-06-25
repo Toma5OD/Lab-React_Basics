@@ -7,11 +7,11 @@ const Demo = () => {
     {
       name: "DevOps",
       noLectures: 2,
-      noPracticals: 3
+      noPracticals: 2
     },
     {
       name: "Enterprise Web Dev",
-      noLectures: 3,
+      noLectures: 2,
       noPracticals: 2
     }
   ];

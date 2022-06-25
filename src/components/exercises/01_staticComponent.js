@@ -17,7 +17,7 @@ const Demo = () => {
           <tr>
             <td>DevOps</td>
             <td>2</td>
-            <td>3</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Enterprise Web Dev</td>
